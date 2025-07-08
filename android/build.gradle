@@ -32,7 +32,7 @@ android {
     ext.workVersion = "2.7.0"
     ext.gradleVersion = "7.1.2"
     ext.kotlinVersion = "1.6.10"
-
+    namespace 'com.ndkai.pip_flutter'
     compileSdkVersion 31
 
     compileOptions {
